@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### I'm currently learning Java, DataStructure, HTML, CSS, JavaScript
+#### 🌱I'm currently learning Java, DataStructure, HTML, CSS, JavaScript
 <!--
 **duthd3/duthd3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
