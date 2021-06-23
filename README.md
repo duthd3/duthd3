@@ -1,7 +1,7 @@
 ### Hi there 👋
 #### 🌱I'm currently learning Java, DataStructure, HTML, CSS, JavaScript
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=duthd3&show_icons=true&bg_color=30,CCCCFF,CC99FF&text_color=FFFFFF&title_color=FFFFFF)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=duthd3&show_icons=true&bg_color=30,CCCCFF,9999FF&text_color=FFFFFF&title_color=FFFFFF)
 
 
 <!--
