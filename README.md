@@ -4,7 +4,8 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 저는 변경에 강한 코드를 짜는 것을 고민하는 개발자 입니다. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> Wanna be a fullstack App Developer </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> Currently focusing on developing iOS & Flutter skills </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🚀 Tech Stacks </h2> <br> 
